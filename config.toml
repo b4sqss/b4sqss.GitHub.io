@@ -9,6 +9,10 @@ enableRobotsTXT = false
 [[menu.main]]
   name = 'Seus direitos'
   url = '/direitos/'
+  weight = -120
+[[menu.main]]
+  name = 'O que podemos fazer?'
+  url = '/ações/'
   weight = -110
 [[menu.main]]
   name = 'créditos'
