@@ -1,0 +1,16 @@
+baseURL = 'https://direitosdigitais.neocities.org/'
+# languageCode = 'pt-br'
+title = 'Os direitos digitais'
+theme = "congo"
+
+enableRobotsTXT = false
+
+[menu]
+[[menu.main]]
+  name = 'Seus direitos'
+  url = '/direitos/'
+  weight = -110
+[[menu.main]]
+  name = 'créditos'
+  url = '/creditos/'
+  weight = -100
