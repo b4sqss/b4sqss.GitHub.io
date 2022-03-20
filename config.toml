@@ -1,5 +1,5 @@
-baseURL = 'https://direitosdigitais.neocities.org/'
-# languageCode = 'pt-br'
+baseURL = 'https://b4sqss.github.io/'
+languageCode = 'pt-br'
 title = 'Os direitos digitais'
 theme = "congo"
 
