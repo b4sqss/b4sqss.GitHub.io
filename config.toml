@@ -1,20 +1,7 @@
 baseURL = 'https://b4sqss.github.io/'
 languageCode = 'pt-br'
-title = 'Os direitos digitais'
-theme = "congo"
+
+title = 'Projeto monitorias'
+theme = 'hugo-theme-learn'
 
 enableRobotsTXT = false
-
-[menu]
-[[menu.main]]
-  name = 'Seus direitos'
-  url = '/direitos/'
-  weight = -120
-[[menu.main]]
-  name = 'O que podemos fazer?'
-  url = '/ações/'
-  weight = -110
-[[menu.main]]
-  name = 'créditos'
-  url = '/creditos/'
-  weight = -100
