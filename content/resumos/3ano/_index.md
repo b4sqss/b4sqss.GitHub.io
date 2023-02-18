@@ -7,7 +7,3 @@ pre = "<b> </b>"
 +++
 
 ### Resumos das matérias do 3º ano
-
-# Some Chapter title
-
-Lorem Ipsum.
