@@ -6,8 +6,4 @@ chapter = true
 pre = "<b> </b>"
 +++
 
-### Chapter X
-
-# Some Chapter title
-
-Lorem Ipsum.
+### Resumo das matérias do 1º do ensino médio
